@@ -47,3 +47,28 @@ a{color:inherit}.site-header{max-width:1480px;margin:auto;padding:38px 48px;disp
 .home .section{padding:190px 0 60px}.home .section h2{font-size:48px;margin-bottom:80px}
 .home .portfolio-grid{grid-template-columns:1fr}.home .portfolio-card{min-height:260px}
 }
+
+/* Final homepage portfolio section — aligned to the original Framer page */
+.home .portfolio-section{max-width:1142px;margin:0 auto;padding:110px 0 0}
+.home .portfolio-section h2{font-size:54px;line-height:1.2;margin:0 0 132px;text-align:center;font-weight:400;letter-spacing:-.04em}
+.home .portfolio-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:68px;row-gap:88px}
+.home .portfolio-card{display:block;min-height:0;padding:0;text-decoration:none;background:transparent;border:0}
+.home .portfolio-card>img{display:block;width:100%;height:auto;aspect-ratio:1.445;object-fit:cover;border-radius:12px;max-width:none;max-height:none;margin:0 0 28px}
+.home .portfolio-meta{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.home .portfolio-meta strong{font-size:30px;line-height:1.25;font-weight:500;letter-spacing:-.035em}
+.home .portfolio-card p{font-size:27px;line-height:1.45;color:var(--muted);margin:12px 0 0;font-weight:400}
+.home .exit-badge{display:inline-flex;align-items:center;justify-content:center;background:#ff5e43;color:#fff;border-radius:24px;padding:8px 19px;font-size:18px;line-height:1.25;font-weight:500}
+.home .home-footer{max-width:none;margin:180px auto 0;padding:26px max(48px,calc((100vw - 1456px)/2)) 76px;border-top:0;display:flex;justify-content:space-between;align-items:center;gap:24px;color:var(--muted);font-size:18px}
+.home .home-footer a{text-decoration:none;color:var(--text);font-size:18px}
+.home.light .portfolio-card p{color:#595959}
+@media(max-width:760px){
+ .home .portfolio-section{padding:180px 0 0}
+ .home .portfolio-section h2{font-size:48px;line-height:1.2;margin-bottom:80px}
+ .home .portfolio-grid{grid-template-columns:1fr;row-gap:72px}
+ .home .portfolio-card>img{aspect-ratio:1.445;margin-bottom:22px;border-radius:12px}
+ .home .portfolio-meta strong{font-size:27px}
+ .home .portfolio-card p{font-size:22px;line-height:1.45;margin-top:9px}
+ .home .exit-badge{font-size:16px;padding:7px 17px}
+ .home .home-footer{margin-top:130px;padding:24px 28px 48px;align-items:flex-start;font-size:14px}
+ .home .home-footer a{font-size:14px;white-space:nowrap}
+}
