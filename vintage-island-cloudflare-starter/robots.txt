@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://www.vintageisland.capital/sitemap.xml\n

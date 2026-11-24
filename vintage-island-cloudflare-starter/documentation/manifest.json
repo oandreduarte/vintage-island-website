@@ -1,0 +1,1445 @@
+{
+  "project": "Vintage Island",
+  "exportedAt": "2026-11-23T22:22:53.714Z",
+  "exportedWith": {
+    "name": "PullPage Asset Export",
+    "url": "https://pull.page"
+  },
+  "summary": {
+    "downloaded": 70,
+    "failed": 0,
+    "skipped": 0,
+    "links": 0,
+    "zipParts": 1,
+    "stoppedEarly": false
+  },
+  "notScanned": [],
+  "notExportable": [
+    "46 vector graphics drawn or pasted in Framer",
+    "Favicon and social image (Site Settings)",
+    "Localized image variants",
+    "Custom fonts you uploaded"
+  ],
+  "assets": [
+    {
+      "file": "images/home-image.jpeg",
+      "files": [
+        "images/home-image.jpeg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 230024,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/FfIZiSSoNIcccZSzhFKrBXO8QY.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/FfIZiSSoNIcccZSzhFKrBXO8QY.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-image.jpg",
+      "files": [
+        "images/home-image.jpg",
+        "cms/projects/volup/thumbnail.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 96722,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image",
+        "CMS Projects › volup › Thumbnail"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/DgZkqNjMFD3S95Gioh7O9o3FE0.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/DgZkqNjMFD3S95Gioh7O9o3FE0.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-image-2.jpg",
+      "files": [
+        "images/home-image-2.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 40750,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/4hqvEA2XS6dUgWJ83paScRaPkNw.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/4hqvEA2XS6dUgWJ83paScRaPkNw.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-image-3.jpg",
+      "files": [
+        "images/home-image-3.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 89882,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image",
+        "Page /projects › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/TCZZeSuS2Q3TX35Iik6ePvKD2BM.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/TCZZeSuS2Q3TX35Iik6ePvKD2BM.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-image-2.jpeg",
+      "files": [
+        "images/home-image-2.jpeg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 11126,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/U09Z91vMnZQHq3ogKstjiFDifY.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/U09Z91vMnZQHq3ogKstjiFDifY.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-image-3.jpeg",
+      "files": [
+        "images/home-image-3.jpeg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 180339,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/4vQ9rogAJAndyoEf0FyZQM96DEc.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/4vQ9rogAJAndyoEf0FyZQM96DEc.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/fixed-aspect-ratio-spacer.png",
+      "files": [
+        "images/fixed-aspect-ratio-spacer.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 38891,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Fixed-aspect-ratio-spacer"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/iiVgV7hktKyIagIobOaUWW0MCY.png",
+      "downloadedFrom": "https://framerusercontent.com/images/iiVgV7hktKyIagIobOaUWW0MCY.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/footer.svg",
+      "files": [
+        "images/footer.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 109409,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Footer"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/2zu8miRhCPEJpFv3xovcUtQNc.svg",
+      "downloadedFrom": "https://framerusercontent.com/images/2zu8miRhCPEJpFv3xovcUtQNc.svg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/user.svg",
+      "files": [
+        "images/user.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1874,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › User"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape.svg",
+      "files": [
+        "images/shape.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1243,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/inner-vector.svg",
+      "files": [
+        "images/inner-vector.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 870,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Inner Vector"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/outer-vector.svg",
+      "files": [
+        "images/outer-vector.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1206,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Outer Vector"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/inner-vector-2.svg",
+      "files": [
+        "images/inner-vector-2.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 870,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Inner Vector"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/outer-vector-2.svg",
+      "files": [
+        "images/outer-vector-2.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1206,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Outer Vector"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/group.svg",
+      "files": [
+        "images/group.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 2655,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Group"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-vector.svg",
+      "files": [
+        "images/home-vector.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 2196,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Vector"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-2.svg",
+      "files": [
+        "images/shape-2.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1264,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-3.svg",
+      "files": [
+        "images/shape-3.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1251,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-4.svg",
+      "files": [
+        "images/shape-4.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1260,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-5.svg",
+      "files": [
+        "images/shape-5.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1266,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-6.svg",
+      "files": [
+        "images/shape-6.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1265,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-7.svg",
+      "files": [
+        "images/shape-7.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1267,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-8.svg",
+      "files": [
+        "images/shape-8.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1267,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-9.svg",
+      "files": [
+        "images/shape-9.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1240,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-10.svg",
+      "files": [
+        "images/shape-10.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1262,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-11.svg",
+      "files": [
+        "images/shape-11.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1243,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/shape-12.svg",
+      "files": [
+        "images/shape-12.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1243,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/combined-shape.svg",
+      "files": [
+        "images/combined-shape.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 2426,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Combined Shape"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/about-image.jpg",
+      "files": [
+        "images/about-image.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 56215,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /about › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/JNo1u31zusCmskzqrY2EPTc6aE.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/JNo1u31zusCmskzqrY2EPTc6aE.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/about-2-image.png",
+      "files": [
+        "images/about-2-image.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 463731,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /about-2 › Image",
+        "Page /about-3 › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/b0bat7MOrF0AgIO5xLlzi8vH40M.png",
+      "downloadedFrom": "https://framerusercontent.com/images/b0bat7MOrF0AgIO5xLlzi8vH40M.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/about-2-image-2.png",
+      "files": [
+        "images/about-2-image-2.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 276547,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /about-2 › Image",
+        "Page /about-3 › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/HSo5f2CapS22iNYptEHpzHXdM.png",
+      "downloadedFrom": "https://framerusercontent.com/images/HSo5f2CapS22iNYptEHpzHXdM.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/about-2-image-3.png",
+      "files": [
+        "images/about-2-image-3.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 193083,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /about-2 › Image",
+        "Page /about-3 › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/FOHMJ2J5OxxmLKYnhk7pLVzmBg.png",
+      "downloadedFrom": "https://framerusercontent.com/images/FOHMJ2J5OxxmLKYnhk7pLVzmBg.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/about-3-image.png",
+      "files": [
+        "images/about-3-image.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 220773,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /about-3 › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/T6P9VZGrUAWLiEzkIA8nublc9o.png",
+      "downloadedFrom": "https://framerusercontent.com/images/T6P9VZGrUAWLiEzkIA8nublc9o.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-image.png",
+      "files": [
+        "images/projects-image.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 127825,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /projects › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/991Vk747imrXxuxAN5AOUSX34.png",
+      "downloadedFrom": "https://framerusercontent.com/images/991Vk747imrXxuxAN5AOUSX34.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/burger-menu.svg",
+      "files": [
+        "images/burger-menu.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 192,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Component Menu button › Burger-menu"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1.jpeg",
+      "files": [
+        "images/variant-1.jpeg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 310748,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/kZShxjqt5NvytHgM0oZpSkwvPo.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/kZShxjqt5NvytHgM0oZpSkwvPo.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-3.jpeg",
+      "files": [
+        "images/variant-3.jpeg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 322049,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture › Variant 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/FyaHuDJLYPIaGEFvDD4hIFuzbdk.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/FyaHuDJLYPIaGEFvDD4hIFuzbdk.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1.png",
+      "files": [
+        "images/variant-1.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 329046,
+      "mimeType": "image/png",
+      "altText": "Profile-pixel",
+      "usedIn": [
+        "Component profile-picture-pixel › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/MIUPOry5QNRVXAPJRN3HIDajJ8.png",
+      "downloadedFrom": "https://framerusercontent.com/images/MIUPOry5QNRVXAPJRN3HIDajJ8.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1-2.png",
+      "files": [
+        "images/variant-1-2.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 266890,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture-pixel-2 › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/alDDkbNcmUMHGwGfdI0xLImzOg.png",
+      "downloadedFrom": "https://framerusercontent.com/images/alDDkbNcmUMHGwGfdI0xLImzOg.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1-3.png",
+      "files": [
+        "images/variant-1-3.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 230686,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture-pixel-orange › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/TWB8bJwPUHnTYa7E8JvIDeaRKrY.png",
+      "downloadedFrom": "https://framerusercontent.com/images/TWB8bJwPUHnTYa7E8JvIDeaRKrY.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1-4.png",
+      "files": [
+        "images/variant-1-4.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 19381,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture-pixel-cores › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/K7p0kQ6s0KlCC19xZrKOjlDvQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/K7p0kQ6s0KlCC19xZrKOjlDvQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1-5.png",
+      "files": [
+        "images/variant-1-5.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 11751,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture-pixel-bw › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/dZ2FydBv4VQL8w5gACB9VczQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/dZ2FydBv4VQL8w5gACB9VczQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/variant-1-6.png",
+      "files": [
+        "images/variant-1-6.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 12687,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component profile-picture-pixel-or › Variant 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/fxmyY5v18BJlZlU50lfumC1kC9E.png",
+      "downloadedFrom": "https://framerusercontent.com/images/fxmyY5v18BJlZlU50lfumC1kC9E.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/hero-background-2-vector-42.svg",
+      "files": [
+        "images/hero-background-2-vector-42.svg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 519,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Component Hero Background 2 › Vector 42"
+      ],
+      "originalUrl": "",
+      "downloadedFrom": "Framer canvas",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-400.woff2",
+      "files": [
+        "fonts/inter-400.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 108488,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Page /",
+        "Component Footer",
+        "Text style Heading 4",
+        "Text style "
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/I3vvuIUcGf5qCtzlC6dFVOEtcQ.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/I3vvuIUcGf5qCtzlC6dFVOEtcQ.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-500.woff2",
+      "files": [
+        "fonts/inter-500.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 111380,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Page /",
+        "Component Helper/Section Tags",
+        "Text style Heading 1",
+        "Text style Heading 2",
+        "Text style Heading 2b"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/ApCBb3GVWcHF7zo7LgD22hXocgo.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/ApCBb3GVWcHF7zo7LgD22hXocgo.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-600.woff2",
+      "files": [
+        "fonts/inter-600.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 111588,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Page /",
+        "Component Button 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/swkvpkCuf242vgQ1fmul6WFU7vI.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/swkvpkCuf242vgQ1fmul6WFU7vI.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-900.woff2",
+      "files": [
+        "fonts/inter-900.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 108748,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Heading 2b"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/nG3o4SDuA4BWwrtiguDyXfG6ajw.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-700-italic.woff2",
+      "files": [
+        "fonts/inter-700-italic.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 118392,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Heading 2b",
+        "Text style Heading 4",
+        "Text style "
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-900-italic.woff2",
+      "files": [
+        "fonts/inter-900-italic.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 115364,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Heading 2b"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/LymiGJ4hx5TKP1rifbezrohbgck.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-500-2.woff2",
+      "files": [
+        "fonts/inter-500-2.woff2"
+      ],
+      "type": "font",
+      "source": "Google Fonts",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 117388,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Heading 3",
+        "Text style Link"
+      ],
+      "originalUrl": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2",
+      "downloadedFrom": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-700.woff2",
+      "files": [
+        "fonts/inter-700.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 111040,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Text style Heading 4",
+        "Text style "
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/ACEaYWisZIYMt1AMEVgshPgBBw.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/ACEaYWisZIYMt1AMEVgshPgBBw.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-400-italic.woff2",
+      "files": [
+        "fonts/inter-400-italic.woff2"
+      ],
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 114576,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Heading 4",
+        "Text style "
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/1JbOkuUhXKxkqtEfehWricQJaJQ.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/1JbOkuUhXKxkqtEfehWricQJaJQ.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-600-2.woff2",
+      "files": [
+        "fonts/inter-600-2.woff2"
+      ],
+      "type": "font",
+      "source": "Google Fonts",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 117608,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Button"
+      ],
+      "originalUrl": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2",
+      "downloadedFrom": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/aircourts/logo.png",
+      "files": [
+        "cms/projects/aircourts/logo.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 25487,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › aircourts › Logo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/l3Yqzd8phXCKpHfR2APMZZclAj0.png",
+      "downloadedFrom": "https://framerusercontent.com/images/l3Yqzd8phXCKpHfR2APMZZclAj0.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/aircourts/image-1.jpeg",
+      "files": [
+        "cms/projects/aircourts/image-1.jpeg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 4217646,
+      "mimeType": "image/jpeg",
+      "altText": "AirCourts team",
+      "usedIn": [
+        "CMS Projects › aircourts › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/rwdDQsQzSCBBmEmEwK2gN0k.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/rwdDQsQzSCBBmEmEwK2gN0k.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/volup/logo.png",
+      "files": [
+        "cms/projects/volup/logo.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 2627,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › volup › Logo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/VrR6vBvwiupo2REzfi0rTos0Po.png",
+      "downloadedFrom": "https://framerusercontent.com/images/VrR6vBvwiupo2REzfi0rTos0Po.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/volup/image-1.jpg",
+      "files": [
+        "cms/projects/volup/image-1.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 449148,
+      "mimeType": "image/jpeg",
+      "altText": "A close-up of a map view with address highlighted",
+      "usedIn": [
+        "CMS Projects › volup › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/UYyTtMJfg2N3qPuCQvHpUhy9mS8.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/UYyTtMJfg2N3qPuCQvHpUhy9mS8.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/fox-protocol/thumbnail.png",
+      "files": [
+        "cms/projects/fox-protocol/thumbnail.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 360996,
+      "mimeType": "image/png",
+      "altText": "Teal Flower",
+      "usedIn": [
+        "CMS Projects › fox-protocol › Thumbnail"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/EAzi5UiUnwkEcvMUnKaHHMoVA.png",
+      "downloadedFrom": "https://framerusercontent.com/images/EAzi5UiUnwkEcvMUnKaHHMoVA.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/fox-protocol/image-1.png",
+      "files": [
+        "cms/projects/fox-protocol/image-1.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 386526,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › fox-protocol › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/6SjJkO4ZQwTFXYLXdtOLh9LkTJc.png",
+      "downloadedFrom": "https://framerusercontent.com/images/6SjJkO4ZQwTFXYLXdtOLh9LkTJc.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/nexara/thumbnail.jpg",
+      "files": [
+        "cms/projects/nexara/thumbnail.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 201302,
+      "mimeType": "image/jpeg",
+      "altText": "Pink Flower",
+      "usedIn": [
+        "CMS Projects › nexara › Thumbnail"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/ZOnotc6vrpmjtyk3wk7tWFgxo.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/ZOnotc6vrpmjtyk3wk7tWFgxo.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/nexara/image-1.jpg",
+      "files": [
+        "cms/projects/nexara/image-1.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 61239,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nexara › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/hZ3HZxTt5dZJLsygzuU2abd1K8.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/hZ3HZxTt5dZJLsygzuU2abd1K8.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/nexara/image-2.png",
+      "files": [
+        "cms/projects/nexara/image-2.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 281014,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nexara › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/4FWZSDkMNAaQS5dsaq4YbRXoQk.png",
+      "downloadedFrom": "https://framerusercontent.com/images/4FWZSDkMNAaQS5dsaq4YbRXoQk.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/nexara/image-3.png",
+      "files": [
+        "cms/projects/nexara/image-3.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 54820,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nexara › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/ok1zW0VrGL46TI9nCIrANOuKw.png",
+      "downloadedFrom": "https://framerusercontent.com/images/ok1zW0VrGL46TI9nCIrANOuKw.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/streamify/thumbnail.png",
+      "files": [
+        "cms/projects/streamify/thumbnail.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 581208,
+      "mimeType": "image/jpeg",
+      "altText": "Yellow Flower",
+      "usedIn": [
+        "CMS Projects › streamify › Thumbnail"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/hOVjgIsyEe4ZQgZSFJlzXeNNpI0.png",
+      "downloadedFrom": "https://framerusercontent.com/images/hOVjgIsyEe4ZQgZSFJlzXeNNpI0.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/streamify/image-1.jpg",
+      "files": [
+        "cms/projects/streamify/image-1.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 249780,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › streamify › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/I2Cz6DbDU7STB63AyExrFukvw.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/I2Cz6DbDU7STB63AyExrFukvw.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/streamify/image-2.jpg",
+      "files": [
+        "cms/projects/streamify/image-2.jpg"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 280467,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › streamify › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/WANpPmjHRRnAs580GFtGNXYhHE.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/WANpPmjHRRnAs580GFtGNXYhHE.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/wenske-ventures/thumbnail.png",
+      "files": [
+        "cms/projects/wenske-ventures/thumbnail.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 190336,
+      "mimeType": "image/png",
+      "altText": "Purple Flower",
+      "usedIn": [
+        "CMS Projects › wenske-ventures › Thumbnail"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/put4c2mLCmEDyfafIBEaB4EA8FE.png",
+      "downloadedFrom": "https://framerusercontent.com/images/put4c2mLCmEDyfafIBEaB4EA8FE.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/wenske-ventures/image-1.png",
+      "files": [
+        "cms/projects/wenske-ventures/image-1.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 4365,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › wenske-ventures › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/PRV2lQpd88rTJPTAlEirYP6C4VI.png",
+      "downloadedFrom": "https://framerusercontent.com/images/PRV2lQpd88rTJPTAlEirYP6C4VI.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "cms/projects/wenske-ventures/image-2.png",
+      "files": [
+        "cms/projects/wenske-ventures/image-2.png"
+      ],
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 13691,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › wenske-ventures › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/sKKnBPGbYNWZLP3QSITEdm0Lpg.png",
+      "downloadedFrom": "https://framerusercontent.com/images/sKKnBPGbYNWZLP3QSITEdm0Lpg.png",
+      "notes": null,
+      "zipPart": 1
+    }
+  ],
+  "links": []
+}
