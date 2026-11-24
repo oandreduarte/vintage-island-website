@@ -137,3 +137,69 @@ body.light .about-cta-button{background:#111;color:#fff}
 .about-footer{padding:25px 28px 45px;font-size:14px}
 .about-footer a{font-size:14px}
 }
+
+
+/* Active primary navigation state */
+.site-header nav a[aria-current="page"]{
+  text-decoration:underline;
+  text-decoration-thickness:1.5px;
+  text-underline-offset:4px;
+}
+
+/* How I invest — faithful layout from the supplied Framer reference */
+body.invest-page-body{min-height:100vh;display:flex;flex-direction:column}
+.invest-page{
+  width:min(100% - 64px,1456px);
+  margin:0 auto;
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  text-align:center;
+  padding:205px 0 0;
+}
+.invest-page h1{
+  margin:0 0 100px;
+  font-size:56px;
+  line-height:1.2;
+  font-weight:400;
+  letter-spacing:-.04em;
+}
+.invest-copy{width:100%;font-size:27px;line-height:1.42;font-weight:400;color:var(--text)}
+.invest-copy p{margin:0 0 40px}
+.invest-reachout{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-width:180px;
+  min-height:80px;
+  margin-top:54px;
+  padding:18px 34px;
+  border-radius:9px;
+  background:#fff;
+  color:#080808;
+  text-decoration:none;
+  font-size:23px;
+  line-height:1.2;
+  font-weight:600;
+}
+.invest-reachout:hover{transform:translateY(-1px)}
+.invest-page-body .site-footer{
+  width:100%;
+  max-width:none;
+  margin:0;
+  padding:26px max(48px,calc((100vw - 1456px)/2)) 76px;
+  border-top:0;
+  color:#aaa;
+  font-size:18px;
+}
+.invest-page-body .site-footer a{text-decoration:none;color:var(--text);font-size:18px}
+@media(max-width:760px){
+  .invest-page{width:calc(100% - 48px);padding-top:135px}
+  .invest-page h1{font-size:42px;margin-bottom:66px}
+  .invest-copy{font-size:20px;line-height:1.5}
+  .invest-copy p{margin-bottom:30px}
+  .invest-reachout{min-height:64px;margin-top:30px;font-size:19px}
+  .invest-page-body .site-footer{padding:24px 24px 48px;font-size:14px}
+  .invest-page-body .site-footer a{font-size:14px}
+}
